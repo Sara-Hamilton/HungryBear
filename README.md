@@ -1,5 +1,4 @@
 # HungryBear
-app to explore asynchrony in JavaScript
 
 ##### Feed the Hungry Bear! 03/18/2018
 
